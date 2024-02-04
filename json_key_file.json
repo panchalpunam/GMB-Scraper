@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gmb-scraper-project",
+  "private_key_id": "960d2ed74ec056bd340bf3e33a6fa52289e17d37",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzWU/mPjOkXhWc\ni06JSfQLTPPqpe7J2PJHyl7SrdFiNCeN6k5DE8bsQRYL44w+Fy6uHhwrMTsFgSXG\nzbgCVUHcZYIGpTlTP+sYXdTN09AIpor0E5cZ3wQmnMaaJmp7px30zrOrGaPv646T\n/58ODWKBHopkHHrLYLAlnXOJA1S6iN7LXTXkaQxgxzU/aT35SeZl1OCsgWsxb7KW\nV3BtWgOIT7PSRWj3CGY12f6WDOtIWPADYH+YQqwRzQgMGV3IhFDG8vFIN2T9LJXj\nIFOSrryUSdZVhTXLxEDIwkaqycjFCA0b+FdyOXxHUTCniSrx/CdNS+2V4pcxHvAH\nngMf8dzVAgMBAAECggEAArtrf6yf5unjttH/BjXzaLWEwElori7rXxOZfcP6hhUY\n4gPrhgDH6One6VIq3PgjAmhy34wkFhq8w4N3LxFX2ZMo3Ebpo9w76RkLHTa4mxNq\nacPffZwwL+2JnUNm+yY+ge/8c2eYzYQz5uZEexdkZItLM7GkzPLEVVHJpJDmNb4T\nRLBQ8bI5MwhQ/KWqpDVSrDBBROJmlP4hhVPkEZ7jfQw0Aa3DgDE4T+Xkr9qQ13lY\ni6AZ12Z6uP/HP/9mK9aaD7XyRyg5nJYg0wCRwzLWus3Q46vPGRFbgvhjB/HLJG+C\nDPF0u5riQ8mdfam0tVHWpzUkaHv7tkQV9oldoMd7+wKBgQD8vaNuC+VzmQhrq5qv\nzGlGl2qixKTgvUIeH4BJ2gG/tUKeRSNqnvRNJq2PenOom9foeG2mOtVkDIeLjPmU\nuW5BMbfxew2nWSsosrZZW1NqqelN9cf7E/Ime5o2/6fP6+jPjBeXXKpsTTAHyhso\nuWPu1CA/5prqFvkSRQy4y/+VRwKBgQC1qWNsl98Jqw8GI4c7nxXqycy37S86HITZ\n7ajNNbT8+haAv1Jyn8PRj40jU7CsQRazhGizlEFiKaooy7zRg9DoZgdVT0ca+KxH\n621juEYloMEP+BzJhXa0b7nkLNEj9bFZZXBDtEpR6BnVzgMmkkZt3tIjspYb7A/w\nPvUbG/Z7AwKBgDog35Ky174Dh2VEHZqrN9dNgfAXrBgoTymgcyAJLPfLl5vRKPkf\nv+5yo95o+mrgFQNZl1ZxF50gKJiW/twO3eXOqpC2jYhcwMlmePwKPiA9HfSZP7pm\ndv4U1X4qxIzUpEH/5XkhjezEv/Q6ro5qPSqzzQsFXcHTMMvb57Yk7Q6HAoGARxGQ\nkwBLQnYId6dYlYukQGlYTLBe5IYZt0RR4I5dUwbn3NB8idlU+1wEpEhuesUwA2UO\nrQqYFbYlGrayFOlTxkd8IPTV5YhZpf1Fm1iRINFmFkBDytcK3IZFHC4oV8Ab9NRJ\nekNDPA3oZYumEeXx5bPhVBPew+ezSJLowwVKhU8CgYEAgFlWQxHSLe+LW5sMSulC\ncw2H4oSdb83wkF3+fIISZ8KluWpzrrNn0EMStH5liuFBnpcnz9BrQyW5YuAALk+F\nFNLlpEsLmYvK4Ux78PkAV81rCe2vinRh0S1GxgaC4Qd4IrUuyO/c7l5qlh/yAjb1\n22I1olInEeKZhRf5DjsievE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gmb-scraper-service-account@gmb-scraper-project.iam.gserviceaccount.com",
+  "client_id": "100282138548953102423",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gmb-scraper-service-account%40gmb-scraper-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
